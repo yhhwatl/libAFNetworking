@@ -1,0 +1,22 @@
+{
+  "name": "libAFNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of libAFNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1140454645@qq.com/libAFNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1140454645@qq.com": "1140454645@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1140454645@qq.com/libAFNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "libAFNetworking/Classes/**/*"
+}
